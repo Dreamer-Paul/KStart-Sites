@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "search": 0,
+        "background": true
+    },
+    "custom":[
+        {
+            "name": "小窝",
+            "url": "https://paul.ren",
+            "icon": "iconfont icon-paul",
+            "color": "28b9be"
+        },
+        {
+            "name": "博客",
+            "url": "https://paugram.com",
+            "icon": "fa fa-book",
+            "color": "6f9fc7"
+        }
+    ],
+    "lists": [0, 1, 2, 4, 5, 6, 7, 8, 9, 13, 14, 15]
+}
