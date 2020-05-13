@@ -1,0 +1,98 @@
+[
+    {
+        "name": "翻译",
+        "url": "https://fanyi.baidu.com",
+        "icon": "fa fa-language",
+        "color": "4395ff"
+    },
+    {
+        "name": "京东",
+        "url": "https://www.jd.com",
+        "icon": "iconfont icon-jd",
+        "color": "d92610"
+    },
+    {
+        "name": "淘宝",
+        "url": "https://www.taobao.com",
+        "icon": "iconfont icon-taobao",
+        "color": "ff8300"
+    },
+    {
+        "name": "贴吧",
+        "url": "https://tieba.baidu.com",
+        "icon": "iconfont icon-tieba",
+        "color": "3385ff"
+    },
+    {
+        "name": "微博",
+        "url": "https://weibo.com",
+        "color": "fa2f2f",
+        "icon": "iconfont icon-weibo"
+    },
+    {
+        "name": "哔哩哔哩",
+        "url": "https://www.bilibili.com",
+        "icon": "iconfont icon-bili",
+        "color": "00a1d6"
+    },
+    {
+        "name": "QQ 邮箱",
+        "url": "https://mail.qq.com",
+        "icon": "iconfont icon-qqmail",
+        "color": "4d7be6"
+    },
+    {
+        "name": "网易邮箱",
+        "url": "https://mail.126.com",
+        "icon": "iconfont icon-netease",
+        "color": "15943b"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "fa fa-github",
+        "color": "555"
+    },
+    {
+        "name": "IT 之家",
+        "url": "https://www.ithome.com",
+        "color": "d22222",
+        "icon": "iconfont icon-ithome"
+    },
+    {
+        "name": "V2EX",
+        "url": "https://v2ex.com",
+        "color": "ccc",
+        "icon": "iconfont icon-v2ex"
+    },
+    {
+        "name": "优酷",
+        "url": "https://www.youku.com",
+        "color": "00b7ff",
+        "icon": "iconfont icon-youku"
+    },
+    {
+        "name": "爱奇艺",
+        "url": "https://www.iqiyi.com",
+        "color": "00be06",
+        "icon": "iconfont icon-iqiyi"
+    },
+    {
+        "name": "阿里云",
+        "url": "https://www.aliyun.com",
+        "color": "ff6a00",
+        "icon": "iconfont icon-aliyun"
+    },
+    {
+        "name": "地图",
+        "url": "https://maps.baidu.com",
+        "color": "8bc34a",
+        "icon": "fa fa-map"
+    },
+    {
+        "name": "CloudFlare",
+        "url": "https://www.cloudflare.com",
+        "color": "f38020",
+        "icon": "iconfont icon-cloudflare"
+    }
+]
