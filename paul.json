@@ -1,8 +1,6 @@
 {
-    "settings": {
-        "search": 0,
-        "background": true
-    },
+    "search": 0,
+    "background": true,
     "custom":[
         {
             "name": "小窝",
@@ -17,5 +15,5 @@
             "color": "6f9fc7"
         }
     ],
-    "lists": [0, 1, 2, 4, 5, 6, 7, 8, 9, 13, 14, 15]
+    "sites": [0, 1, 2, 4, 5, 6, 7, 8, 9, 13, 14, 15]
 }
