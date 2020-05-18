@@ -18,7 +18,7 @@
 
 ## 开源协议
 
-本项目采用 `MIT` 开源协议进行授权，转载或分发请注明 [本项目地址](https://github.com/Dreamer-Paul/Docs)。
+本项目采用 `MIT` 开源协议进行授权，转载或分发请注明 [本项目地址](https://github.com/Dreamer-Paul/KStart)。
 
 原创不易！如果喜欢本项目，请 `Star` 它以示对我的支持~
 
